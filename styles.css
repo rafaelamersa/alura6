@@ -1,0 +1,44 @@
+body {
+    color: white;
+    background: #2b021e;
+    margin: 0px;
+    font-family: "Protest Guerrilla", sans-serif;
+}
+
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(207 169 200);
+}
+
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: block;
+    justify-content:start;
+}
+
+.chamada-texto {
+    margin-right: 20%%;
+}
+
+h1 { 
+    font-size: 29px;
+}
+
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
